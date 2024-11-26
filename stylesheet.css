@@ -1,0 +1,182 @@
+ol{
+    list-style-position: inside;
+    margin: auto;
+    width: 400px;
+
+}
+.l1{
+    color: white;
+    background-color: black;
+    padding: 15px;
+    cursor: pointer;
+    transition: all ease-in .2s;
+}
+.l1:hover{
+    background-color: white;
+    color: black;
+}
+.l2{
+    color: white;
+    background-color: silver;
+    padding: 15px;
+    cursor: pointer;
+    transition: all ease-in .2s;
+}
+.l2:hover{
+    background-color: white;
+    color: black;
+}
+.l3{
+    color: white;
+    background-color: gray;
+    padding: 15px;
+    cursor: pointer;
+    transition: all ease-in .2s;
+}
+.l3:hover{
+    background-color: white;
+    color: black;
+}
+.l4{
+    color: white;
+    background-color: #3498db;
+    padding: 15px;
+    cursor: pointer;
+    transition: all ease-in .2s;
+}
+.l4:hover{
+    background-color: white;
+    color: black;
+}
+.l5{
+    color: white;
+    background-color: maroon;
+    padding: 15px;
+    cursor: pointer;
+    transition: all ease-in .2s;
+}
+.l5:hover{
+    background-color: white;
+    color: black;
+}
+.l6{
+    color: white;
+    background-color: red;
+    padding: 15px;
+    cursor: pointer;
+    transition: all ease-in .2s;
+}
+.l6:hover{
+    background-color: white;
+    color: black;
+}
+.l7{
+    color: white;
+    background-color: purple;
+    padding: 15px;
+    cursor: pointer;
+    transition: all ease-in .2s;
+}
+.l7:hover{
+    background-color: white;
+    color: black;
+}
+.l8{
+    color: white;
+    background-color: #FF00FF;
+    padding: 15px;
+    cursor: pointer;
+    transition: all ease-in .2s;
+}
+.l8:hover{
+    background-color: white;
+    color: black;
+}
+.l9{
+    color: white;
+    background-color: green;
+    padding: 15px;
+    cursor: pointer;
+    transition: all ease-in .2s;
+}
+.l9:hover{
+    background-color: white;
+    color: black;
+}
+.l10{
+    color: white;
+    background-color: lime;
+    padding: 15px;
+    cursor: pointer;
+    transition: all ease-in .2s;
+}
+.l10:hover{
+    background-color: white;
+    color: black;
+}
+.l11{
+    color: white;
+    background-color: olive;
+    padding: 15px;
+    cursor: pointer;
+    transition: all ease-in .2s;
+}
+.l11:hover{
+    background-color: white;
+    color: black;
+}
+.l12{
+    color: white;
+    background-color: yellow;
+    padding: 15px;
+    cursor: pointer;
+    transition: all ease-in .2s;
+}
+.l12:hover{
+    background-color: white;
+    color: black;
+}
+.l13{
+    color: white;
+    background-color: #000080;
+    padding: 15px;
+    cursor: pointer;
+    transition: all ease-in .2s;
+}
+.l13:hover{
+    background-color: white;
+    color: black;
+}
+.l14{
+    color: white;
+    background-color: #0000FF;
+    padding: 15px;
+    cursor: pointer;
+    transition: all ease-in .2s;
+}
+.l14:hover{
+    background-color: white;
+    color: black;
+}
+.l15{
+    color: white;
+    background-color: teal;
+    padding: 15px;
+    cursor: pointer;
+    transition: all ease-in .2s;
+}
+.l15:hover{
+    background-color: white;
+    color: black;
+}
+.l16{
+    color: white;
+    background-color: aqua;
+    padding: 15px;
+    cursor: pointer;
+    transition: all ease-in .2s;
+}
+.l16:hover{
+    background-color: white;
+    color: black;
+}
